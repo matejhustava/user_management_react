@@ -12,5 +12,5 @@ Adding user to list of users.
 - Using CSS modules.
 
 # to run project locally
-npm insstall
+npm install
 npm run start
